@@ -7,6 +7,7 @@
 * 💀 **14 Sep 2026** — [OWASP Top 10 Deep Dive: Rompiendo la Lógica de las Bases de Datos con SQLi](https://github.com/0xBlackCanary/blog/blob/main/2026-09-14-owasp-top10-sqli.md) 💀
 * 📺 **15 Sep 2026** — [Bastionado IoT: Convirtiendo tu Smart TV en un Entorno Zero Trust](https://github.com/0xBlackCanary/blog/blob/main/2026-09-15-bastionado-iot-smart-tv.md) 📺
 * ⚠️ **16 Sep 2026** — [Ciberseguridad y Soberanía Digital: Implicaciones del marco eIDAS2 en la UE](https://github.com/0xBlackCanary/blog/blob/main/2026-09-16-privacidad-eidas2-dni-ip.md) 🇪🇺⚠️
+* 🐦 **18 Sep 2026** — [— [Ciberseguridad y Soberanía Digital: Implicaciones del marco eIDAS2 en la UE]]
 # ✍️ Mi Bitácora de Ciberseguridad (Blog)
 
 

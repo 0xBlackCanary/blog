@@ -8,6 +8,7 @@
 * 📺 **15 Sep 2026** — [Bastionado IoT: Convirtiendo tu Smart TV en un Entorno Zero Trust](https://github.com/0xBlackCanary/blog/blob/main/2026-09-15-bastionado-iot-smart-tv.md) 📺
 * ⚠️ **16 Sep 2026** — [Ciberseguridad y Soberanía Digital: Implicaciones del marco eIDAS2 en la UE](https://github.com/0xBlackCanary/blog/blob/main/2026-09-16-privacidad-eidas2-dni-ip.md) 🇪🇺⚠️
 * 🐦 **18 Sep 2026** — [Canary Tokens: El Arte del Engaño y la Detección Temprana en la Red]
+(https://github.com/0xBlackCanary/blog/blob/main/2026-09-18-canary-tokens-trampas-defensivas.md) 🐦
 # ✍️ Mi Bitácora de Ciberseguridad (Blog)
 
 
